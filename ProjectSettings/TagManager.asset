@@ -19,6 +19,11 @@ TagManager:
   - Postprocessing
   - First Person Objects
   - IgnoreRefelctions
+  - ShopCamera
+  - ShopCharacter
+  - Cockpit
+  - First Person Objects P2
+  - Skybox
   - 
   - 
   - 
@@ -29,12 +34,7 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - portal
   - p1cam
   - p2cam
   - p3cam
